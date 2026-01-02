@@ -1,9 +1,9 @@
 # PowerBI-Project
-Overview
+**Overview**
 
 This project showcases interactive data visualizations designed to present complex business insights in a clear and intuitive way. The dashboards focus on performance tracking, trend analysis, and key metrics, enabling stakeholders to quickly understand data patterns and make informed decisions through effective visual storytelling.
 
-Project Features
+**Project Features**
 
 Interactive dashboards for business performance monitoring
 
@@ -13,7 +13,7 @@ User-friendly design for quick data interpretation
 
 Visual storytelling to support decision-making
 
- Tools & Technologies
+ **Tools & Technologies**
 
 Power BI
 
@@ -29,11 +29,11 @@ Trend Analysis Dashboard
 
 Key Metrics & KPI Dashboard
 
- Objective
+ **Objective**
 
 The objective of this project is to transform raw data into meaningful insights through effective visual design, helping business users identify patterns, track performance, and make data-driven decisions.
 
- Intended Audience
+ **Intended Audience**
 
 Business stakeholders
 
